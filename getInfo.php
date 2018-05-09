@@ -15,6 +15,6 @@ $dados = file_get_contents($url);
 
 //$exibir = str_replace($retirar, '', $exibir);
 
-echo $conteudo;
+echo $dados;
 
 ?>
